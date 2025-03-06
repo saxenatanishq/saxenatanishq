@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 -  **First-year B.Tech student** at **IIT Kharagpur**, pursuing **Computer Science & Engineering**.
--  **Member of Kharagpur Blockchain Society** – Exploring Web3 & Blockchain.
+-  **Member of Kharagpur Blockchain Society**
 -  **Still a learner** – Exploring multiple fields, from **Blockchain, Web Dev, AI/ML to Finance & Trading**.
 -  **Sporty** – I enjoy playing football and cricket.
 
