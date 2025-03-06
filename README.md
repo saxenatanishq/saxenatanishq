@@ -8,8 +8,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=saxenatanishq&show_icons=true&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxenatanishq&layout=compact&theme=tokyonight" />
 </p>
 
 ---
