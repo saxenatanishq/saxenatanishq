@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Tanishq👋</h1>
+<h3>Hey there, I'm Tanishq👋</h1>
 
 ## 🚀 About Me
 -  **First-year B.Tech student** at **IIT Kharagpur**, pursuing **Computer Science & Engineering**.
@@ -8,7 +8,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxenatanishq&layout=compact&theme=tokyonight" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxenatanishq&layout=compact&theme=tokyonight" />
 </p>
 
 ---
