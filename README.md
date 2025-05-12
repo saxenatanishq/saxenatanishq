@@ -2,7 +2,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxenatanishq&layout=compact&theme=tokyonight" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxenatanishq&layout=compact&theme=tokyonight" />
 </p>
 
 ---
